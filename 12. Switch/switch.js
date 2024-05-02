@@ -1,5 +1,6 @@
 //switch statement
-let day = 1;
+let day ;
+day =Number(prompt("Enter the day"));
 
 switch (day) {
     case 1:
