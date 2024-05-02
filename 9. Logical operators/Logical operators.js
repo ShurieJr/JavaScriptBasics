@@ -1,5 +1,5 @@
 //Logical operators 
-// AND ,  OR  , NOT
+// AND && ,  OR ||  , NOT !
 
 let x =10 , y = 30 , z = 40 ;
 
