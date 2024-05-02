@@ -9,3 +9,6 @@ console.log(typeof NaN); //number
 console.log(typeof undefined);   //undefined
 console.log(typeof {});   //object
 console.log(typeof null); //object
+
+const c = "5";
+console.log(typeof c); //string
