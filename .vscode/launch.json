@@ -1,0 +1,10 @@
+{
+    "configurations": [
+        {
+            "type": "msedge",
+            "name": "https://github.com/ShurieJr/JavaScriptBasics.git",
+            "request": "launch",
+            "url": "https://github.com/ShurieJr/JavaScriptBasics.git"
+        }
+    ]
+}
